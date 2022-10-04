@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.video {
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+.images {
+    height: 500px; width: 500px;
+}
